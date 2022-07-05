@@ -1,0 +1,23 @@
+gender > placed or not -> hue                                                done
+
+ssc_p > groupby with ssc_b (mean, max, min)                                  done
+
+ssc_p seperated distribution graph with ssc_b                                done  
+
+hsc_p > groupby with hsc_b(varience)
+hsc_p > groupby with hsc_s(varience)                                          done
+compare varience with hsc_p
+
+hsc_p > groupby with hsc_b (mean, max, min)                                    done
+
+hsc_p > groupby with hsc_s (mean, max, min)                                   done
+
+hsc_p seperated distribution graph with hsc_b                               done
+
+hsc_p seperated distribution graph with hsc_s                                done  
+
+hsc_b > hsc_s -> hue                                                          done
+
+ssc_p scatter with hsc_p                                                      done
+
+ssc_p scatter with hsc_p with staus hue                                      done
